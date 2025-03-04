@@ -54,7 +54,7 @@ Installation
 First, install laravel (7.0 / 8.0 or up), and make sure that the database connection settings are correct.
 
 ```
-composer require open-admin-org/open-admin
+composer require snowsoft/open-admin
 ```
 
 Then run these commands to publish assets and config：
